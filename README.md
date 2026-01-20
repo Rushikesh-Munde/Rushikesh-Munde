@@ -71,14 +71,6 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://github.com/Rushikesh-Munde/Rushikesh-Munde/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🤝 Let’s Connect
 
 💬 Open to collaborations, internships, and learning opportunities  
